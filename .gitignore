@@ -1,0 +1,12 @@
+ansible-key-ec2
+ansible-key-ec2.pub
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+.terraform/
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
