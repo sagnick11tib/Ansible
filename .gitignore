@@ -1,4 +1,4 @@
-ansible-key-ec2
+ansible-key-ec2.pem
 ansible-key-ec2.pub
 *.tfstate
 *.tfstate.*
